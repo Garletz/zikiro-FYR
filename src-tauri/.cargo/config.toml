@@ -1,0 +1,10 @@
+# Configuration Cargo pour optimiser les builds
+# et réduire les erreurs EMFILE
+
+[target.'cfg(windows)']
+# Configuration spécifique Windows pour éviter les problèmes de fichiers
+linker = "link.exe"
+
+[env]
+# Variables d'environnement pour optimiser les builds
+CARGO_INCREMENTAL = "1"
