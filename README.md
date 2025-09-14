@@ -1,6 +1,6 @@
 # Zikiro
 
-> **Intelligent Point of Sale Application with AI**  
+> **Intelligent Point of Sale Application**  
 > Complete restaurant management system with automatic menu analysis and SMS communication
 
 [![Tauri](https://img.shields.io/badge/Tauri-1.0-blue.svg)](https://tauri.app/)
@@ -9,6 +9,7 @@
 [![Rust](https://img.shields.io/badge/Rust-1.70-orange.svg)](https://www.rust-lang.org/)
 
 ## Main Features
+![screen-capture](https://github.com/user-attachments/assets/d7b642c2-6660-429e-a614-8393f8dc1eec)
 
 ### Artificial Intelligence
 - **MenuGPT** : Automatic menu analysis with Google Gemini
