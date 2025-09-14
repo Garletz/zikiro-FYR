@@ -178,5 +178,3 @@ npm run tauri dev
 - **Documentation** : Self-documented code
 
 **Version** : 0.1.0  
-**Release Date** : January 2026  
-**Last Updated** : December 2024
